@@ -1,4 +1,3 @@
-<?php require_once 'proteger.php'; ?>
 <?php
 // index.php - Formulario de registro
 ?>
